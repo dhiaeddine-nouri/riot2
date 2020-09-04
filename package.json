@@ -30,7 +30,7 @@
     "matrix-js-sdk": "^0.2.2",
     "matrix-react-sdk": "^0.0.1",
     "q": "^1.4.1",
-    "react": "^0.13.3",
+    "react": "^16.13.1",
     "react-loader": "^1.4.0"
   },
   "devDependencies": {
